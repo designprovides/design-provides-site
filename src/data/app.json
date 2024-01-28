@@ -47,20 +47,7 @@
                     }
                 ]
             },
-            {
-                "label": "Blog",
-                "link": "/blog",
-                "children": [
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/the-infrastructure-that-powers-the-world"
-                    }
-                ]
-            },
+     
             {
                 "label": "Contact Us",
                 "link": "/contact",
