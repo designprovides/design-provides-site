@@ -28,8 +28,8 @@ const Contact = () => {
                     <div className="col-lg-6">
 
                         <div className="mil-mb-90">
-                            <h2 className="mil-upper mil-up mil-mb-30">Info Contact</h2>
-                            <p className="mil-up mil-mb-40">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters.</p>
+                            <h2 className="mil-upper mil-up mil-mb-30">Connect With Us Today!</h2>
+                            <p className="mil-up mil-mb-40">At Design Provides, we're always here to help. Whether you have questions, need support, or just want to share your feedback, we're all ears. Your experience and satisfaction are our top priorities. So, if you encounter any issues, have any concerns, or simply wish to chat with us about our services, please don't hesitate to reach out. Our dedicated team is ready to assist you with a smile. You can contact us via email, phone, or our convenient online form. Plus, our FAQ section might have the quick answers you're looking for. Let's stay connected because your voice matters to us!"</p>
                         </div>
 
                     </div>
@@ -43,18 +43,18 @@ const Contact = () => {
 
                                 <h6 className="mil-upper mil-up mil-mb-30">Headquarters</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>USA</li>
-                                    <li>New York - 1800 Wazee Street</li>
-                                    <li>Suite 300 NY, NY 80202</li>
+                                    <li>Bangladesh</li>
+                                    <li>GPO - 6000, Boalia</li>
+                                    <li>Rajshahi City Corporation, Rajshahi</li>
                                 </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Phone</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>+7 (200) 600-30-30</li>
-                                    <li>+7 (200) 200 - 80 - 02</li>
+                                    <li>+880 1792184034</li>
+                                    <li>+880 1521575131</li>
                                 </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Email</h6>
                                 <ul className="mil-list mil-dark mil-up">
-                                    <li>info@ruizarch.com</li>
+                                 
                                     <li>designprovides@gmail.com</li>
                                 </ul>
                                 
@@ -65,22 +65,19 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-7">
                         <div className="row">
+                       
                             <div className="col-lg-4">
                                 <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Wills Point</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
+                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Design Provides-1</span>
+
+                                    <p className="mil-up"> <br/>Hossaini Ganj <br/>GPO - 6000, Boalia, Rajshahi City Corporation, Rajshahi <br/>(+880) 1792184034</p>
+
                                 </div>
                             </div>
                             <div className="col-lg-4">
                                 <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Chicago</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Harriman</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
+                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Design Provides-2</span>
+                                    <p className="mil-up"> <br/>Hossaini Ganj <br/>GPO - 6000, Boalia, Rajshahi City Corporation, Rajshahi <br/>(+880) 1521575131</p>
                                 </div>
                             </div>
                         </div>

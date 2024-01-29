@@ -35,22 +35,22 @@ const DefaultFooter = () => {
                             </div>
 
                         </div>
-                        <div className="col-md-6 col-lg-6 col-xl-3">
-                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Wills Point</span>
-                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30">8619 S Wolcott Avenue <br/>Floor 202 <br/>Chicago, IL 60620 <br/>(773) 238 - 7162</p>
+                  
+                        <div className="col-md-12 col-lg-8 col-xl-4">
+                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Main Goal</span>
+                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30">
+                            The main goal across all these design disciplines—graphic design, logo creation, banner and flyer design, video editing, and clipping path services—is effective communication.This goal is achieved by balancing creativity, aesthetic appeal, and clarity in every design element.
+                            </p>
                         </div>
                         <div className="col-md-6 col-lg-6 col-xl-3">
-                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Chicago</span>
-                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
+                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Design Provides-1</span>
+                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30"> <br/>Hossaini Ganj <br/>GPO - 6000, Boalia, Rajshahi City Corporation, Rajshahi <br/>(+880) 1792184034</p>
                         </div>
                         <div className="col-md-6 col-lg-6 col-xl-3">
-                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Harriman</span>
-                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30">5 Harriman Woods Dr <br/>Suite 702 <br/>New York, NY 10926 <br/>(570) 253 - 2853</p>
+                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Design Provides-2</span>
+                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30"> <br/>Hossaini Ganj <br/>GPO - 6000, Boalia, Rajshahi City Corporation, Rajshahi <br/>(+880) 1521575131</p>
                         </div>
-                        <div className="col-md-6 col-lg-6 col-xl-3">
-                            <span className="mil-suptitle mil-light mil-upper mil-up mil-mb-30">Largo</span>
-                            <p className="mil-text-sm mil-up mil-light-soft mil-mb-30">1071 Donegan Rd <br/>Suite 1300 <br/>Florida, FL 33771 <br/>(727) 223 - 5371</p>
-                        </div>
+                 
                     </div>
                 </div>
                 <div className="col-lg-4">
@@ -69,10 +69,7 @@ const DefaultFooter = () => {
                     <li key={`footer-social-item-${key}`}><a href={item.link} target="_blank">{item.title}</a></li>
                     ))}
                 </ul>
-                <ul className="mil-light-soft mil-mb-15">
-                    <li><a href="#.">Our App</a></li>
-                    <li><a href="#.">Sitemap</a></li>
-                </ul>
+          
             </div>
 
         </div>
